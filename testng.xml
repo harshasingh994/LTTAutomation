@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="suite " verbose="1" >
+  <test name="LTT Automation" >
+    <classes>
+      <class name="com.LTT.qa.TestCases.HomePageTest"/>
+      <class name="com.LTT.qa.TestCases.PickUpDateTest"/>
+      <class name="com.LTT.qa.TestCases.SeatSelectionTest"/>
+      <class name="com.LTT.qa.TestCases.EnterGuestDetailsTest"/>
+    </classes>
+ </test>
+</suite>
